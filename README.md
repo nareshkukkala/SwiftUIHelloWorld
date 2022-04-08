@@ -1,4 +1,5 @@
 # SwiftUIHelloWorld
 
 
-https://github.com/nareshkukkala/SwiftUIHelloWorld/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-04-08%20at%2012.49.07.mp4
+https://user-images.githubusercontent.com/4920178/162419838-fc15be78-6f25-481e-8ef2-2d2fa6a80143.mov
+
