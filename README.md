@@ -1,4 +1,5 @@
 # SwiftUIHelloWorld
 
 
-https://github.com/nareshkukkala/SwiftUIHelloWorld/blob/main/SwiftUIHelloWorld.mov
+
+<video src='https://github.com/nareshkukkala/SwiftUIHelloWorld/blob/main/SwiftUIHelloWorld.mov' width=180/>
